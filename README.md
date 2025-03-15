@@ -1,5 +1,9 @@
-# 💫 About Me:
-I am currently working on Building a personal website, Creating a web application, Developing a responsive design, etc.<br>I am looking to collaborate on Open-source projects, Web development communities, Freelance projects, etc.<br>I am looking for help with Learning JavaScript frameworks, Improving coding skills, Understanding web security, etc.<br>I am currently learning  React, Angular, Vue.js, Node.js, Ruby on Rails, etc.
+
+💫 About Me:
+I am a passionate developer currently focused on building personal websites, creating dynamic web applications, and developing responsive designs.
+I’m always eager to collaborate on open-source projects, web development communities, and freelance opportunities to expand my skills and make an impact.
+I’m actively seeking guidance and mentorship in learning JavaScript frameworks, enhancing my coding skills, and deepening my understanding of web security practices.
+Currently, I am learning cutting-edge technologies like React, Angular, Vue.js, Node.js, and Ruby on Rails to stay ahead in the world of web development.
 
 
 
