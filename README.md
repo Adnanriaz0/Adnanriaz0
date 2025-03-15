@@ -5,7 +5,7 @@ I am currently working on Building a personal website, Creating a web applicatio
 
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adnanriaz0)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adnan-riaz-a4a336279)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-riaz-a4a336279)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourUsername)  
 
 ---
@@ -49,14 +49,14 @@ I am currently working on Building a personal website, Creating a web applicatio
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=https://github.com/Adnanriaz0&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Adnanriaz0&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Adnanriaz0=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=Adnanriaz0&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Adnanriaz0&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adnanriaz0&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ---
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?https://github.com/Adnanriaz0=YourUsername&theme=radical&no-frame=true&no-bg=false&margin-w=4)  
+![](https://github-profile-trophy.vercel.app/?Adnanriaz0=YourUsername&theme=radical&no-frame=true&no-bg=false&margin-w=4)  
 
 ---
 
