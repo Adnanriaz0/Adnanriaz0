@@ -18,8 +18,7 @@ Also exploring **AI/ML** — trained a CNN-LSTM model for medical diagnostics (9
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Web%2C+Mobile+%26+IoT+Applications;Full+Stack+Developer+%7C+MERN+%2B+Python;Turning+Ideas+Into+Real-Time+Products" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Adnan Riaz</h1>
-<h3 align="center">Full Stack Developer | React • Node.js • Flask/FastAPI • IoT & AI/ML</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Web%2C+Mobile+%26+IoT+Applications;Full+Stack+Developer+%7C+MERN+%2B+Python;Turning+Ideas+Into+Real-Time+Products" alt="Typing SVG" />
