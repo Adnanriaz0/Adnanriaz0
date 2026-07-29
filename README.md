@@ -1,13 +1,13 @@
 
 💫 About Me:
 
- I'm a Full Stack Developer building web, mobile, and IoT-integrated applications — from REST APIs to responsive UIs, with    hands-on experience in production systems.
+I'm a Full Stack Developer building web, mobile, and IoT-integrated applications — from REST APIs to responsive UIs, with hands-on experience in production systems.
 
- Currently working with React.js, Node.js, Flask, FastAPI, and React Native, and integrating hardware (ESP32) with cloud      services for real-time monitoring solutions.
+Currently working with React.js, Node.js, Flask, FastAPI, and React Native, and integrating hardware (ESP32) with cloud services for real-time monitoring solutions.
 
- Also exploring AI/ML — trained CNN-LSTM models for medical diagnostics and worked on predictive modeling projects.
+Also exploring AI/ML — trained CNN-LSTM models for medical diagnostics and worked on predictive modeling projects.
 
- Open to freelance work, collaboration on open-source projects, and interesting full-stack/IoT builds.
+Open to freelance work, collaboration on open-source projects, and interesting full-stack/IoT builds.
 
 📫 Reach me: adnanriaz2222@gmail.com | Portfolio
 
