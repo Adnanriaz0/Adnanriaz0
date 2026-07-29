@@ -3,7 +3,7 @@
 
 Full Stack Developer building web, mobile, and IoT-integrated applications — from REST API design to responsive UIs, with hands-on experience shipping production systems.
 
-Currently working with **React.js, Node.js, Flask, FastAPI,** and **React Native**, and integrating hardware (**ESP32**) with cloud services for real-time monitoring solutions.
+Currently working with **React.js, Node.js, Flask, FastAPI,** and **React Native**, and integrating hardware (**ESP32 & Raspberry Pi**) with cloud services for real-time monitoring solutions.
 
 Also exploring **AI/ML** — trained a CNN, LSTM, CRNN  models for medical diagnostics (94% training accuracy) and worked on predictive modeling projects using TensorFlow and scikit-learn.
 
