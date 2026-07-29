@@ -84,37 +84,38 @@ Also exploring **AI/ML** — trained a CNN, LSTM, CRNN  models for medical diagn
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adnanriaz0&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnanriaz0&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adnanriaz0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnanriaz0&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adnanriaz0&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adnanriaz0&theme=tokyonight&no-frame=true"/>
+  <img src="https://streak-stats.demolab.com?user=Adnanriaz0&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Adnanriaz0&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/Adnanriaz0">Adnanriaz0</a> — feel free to explore my repos and connect!</i></p>
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
 <p align="center">
+  ⭐ If you like this project, please consider giving it a star!
+</p>center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
