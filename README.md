@@ -1,15 +1,23 @@
 
-💫 About Me:
+### 💫 About Me
 
-I'm a Full Stack Developer building web, mobile, and IoT-integrated applications — from REST APIs to responsive UIs, with hands-on experience in production systems.
+Full Stack Developer building web, mobile, and IoT-integrated applications — from REST API design to responsive UIs, with hands-on experience shipping production systems.
 
-Currently working with React.js, Node.js, Flask, FastAPI, and React Native, and integrating hardware (ESP32) with cloud services for real-time monitoring solutions.
+Currently working with **React.js, Node.js, Flask, FastAPI,** and **React Native**, and integrating hardware (**ESP32**) with cloud services for real-time monitoring solutions.
 
-Also exploring AI/ML — trained CNN-LSTM models for medical diagnostics and worked on predictive modeling projects.
+Also exploring **AI/ML** — trained a CNN-LSTM model for medical diagnostics (94% training accuracy) and worked on predictive modeling projects using TensorFlow and scikit-learn.
 
-Open to freelance work, collaboration on open-source projects, and interesting full-stack/IoT builds.
+  Open to **freelance work**, **open-source collaboration**, and interesting **full-stack / IoT builds**.
 
-📫 Reach me: adnanriaz2222@gmail.com | Portfolio
+📫 Reach me: **adnanriaz2222@gmail.com** | 🌐 [Portfolio](https://adnan-riaz-portfolio.web.app)
+
+<h1 align="center"> I'm Adnan Riaz</h1>
+<h3 align="center">Full Stack Developer | React • Node.js • Flask/FastAPI • IoT & AI/ML</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Web%2C+Mobile+%26+IoT+Applications;Full+Stack+Developer+%7C+MERN+%2B+Python;Turning+Ideas+Into+Real-Time+Products" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Adnan Riaz</h1>
 <h3 align="center">Full Stack Developer | React • Node.js • Flask/FastAPI • IoT & AI/ML</h3>
 
@@ -86,7 +94,7 @@ Open to freelance work, collaboration on open-source projects, and interesting f
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adnanriaz0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adnanriaz0&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnanriaz0&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -99,7 +107,16 @@ Open to freelance work, collaboration on open-source projects, and interesting f
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adnanriaz0&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Adnanriaz0&theme=tokyonight&no-frame=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+<p align="center"><i>⭐️ From <a href="https://github.com/Adnanriaz0">Adnanriaz0</a> — feel free to explore my repos and connect!</i></p>
 </p>
 
 ---
