@@ -82,7 +82,7 @@ Also exploring **AI/ML** — trained a CNN, LSTM, CRNN  models for medical diagn
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </p>
 
----
+------
 
 ## 📊 GitHub Stats
 
@@ -114,9 +114,5 @@ Also exploring **AI/ML** — trained a CNN, LSTM, CRNN  models for medical diagn
 ---
 
 <p align="center">
-  ⭐ If you like this project, please consider giving it a star!
-</p>center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  ⭐️ From <a href="https://github.com/Adnanriaz0">Adnanriaz0</a> — feel free to explore my repos and connect!
 </p>
-
-<p align="center"><i>⭐️ From <a href="https://github.com/Adnanriaz0">Adnanriaz0</a> — feel free to explore my repos and connect!</i></p>
