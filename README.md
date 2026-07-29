@@ -5,7 +5,7 @@ Full Stack Developer building web, mobile, and IoT-integrated applications — f
 
 Currently working with **React.js, Node.js, Flask, FastAPI,** and **React Native**, and integrating hardware (**ESP32**) with cloud services for real-time monitoring solutions.
 
-Also exploring **AI/ML** — trained a CNN-LSTM model for medical diagnostics (94% training accuracy) and worked on predictive modeling projects using TensorFlow and scikit-learn.
+Also exploring **AI/ML** — trained a CNN, LSTM, CRNN  models for medical diagnostics (94% training accuracy) and worked on predictive modeling projects using TensorFlow and scikit-learn.
 
   Open to **freelance work**, **open-source collaboration**, and interesting **full-stack / IoT builds**.
 
@@ -13,12 +13,6 @@ Also exploring **AI/ML** — trained a CNN-LSTM model for medical diagnostics (9
 
 <h1 align="center"> I'm Adnan Riaz</h1>
 <h3 align="center">Full Stack Developer | React • Node.js • Flask/FastAPI • IoT & AI/ML</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Web%2C+Mobile+%26+IoT+Applications;Full+Stack+Developer+%7C+MERN+%2B+Python;Turning+Ideas+Into+Real-Time+Products" alt="Typing SVG" />
-</p>
-
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Web%2C+Mobile+%26+IoT+Applications;Full+Stack+Developer+%7C+MERN+%2B+Python;Turning+Ideas+Into+Real-Time+Products" alt="Typing SVG" />
